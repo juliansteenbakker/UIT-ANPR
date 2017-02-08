@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 345,
+                    "endColumn": 45,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 45,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 66,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 66,
+                        "endOffset": 118
+                    }
+                }
+            }
+        ]
+    }
+]
