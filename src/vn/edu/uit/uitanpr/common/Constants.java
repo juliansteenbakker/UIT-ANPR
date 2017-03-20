@@ -1,4 +1,4 @@
-package vn.edu.uit.uitanpr.common;
+package vn.edu.oa.anpr.common;
 
 public interface Constants 
 {

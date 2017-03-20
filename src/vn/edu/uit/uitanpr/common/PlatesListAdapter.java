@@ -1,11 +1,11 @@
-package vn.edu.uit.uitanpr.common;
+package vn.edu.oa.anpr.common;
 
 import java.util.List;
 
-import vn.edu.uit.uitanpr.R;
-import vn.edu.uit.uitanpr.R.id;
-import vn.edu.uit.uitanpr.R.layout;
-import vn.edu.uit.uitanpr.models.BitmapWithCentroid;
+import vn.edu.oa.anpr.R;
+import vn.edu.oa.anpr.R.id;
+import vn.edu.oa.anpr.R.layout;
+import vn.edu.oa.anpr.models.BitmapWithCentroid;
 
 import android.content.Context;
 import android.graphics.Bitmap;

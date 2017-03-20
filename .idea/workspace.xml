@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="70265946-c640-4323-b685-99ea37a92e04" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UIT-ANPR.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/bundles/release/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/bundles/release/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/bundles/release/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/exploded-aar/UIT-ANPR1/openCVLibrary320/unspecified/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/exploded-aar/UIT-ANPR1/openCVLibrary320/unspecified/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/exploded-aar/UIT-ANPR1/openCVLibrary320/unspecified/jars/classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/exploded-aar/UIT-ANPR1/openCVLibrary320/unspecified/res/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/packageDebug/zip-cache/us_DUthfiXgXIg67_bbq4iC68V0=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/packageInstantRunResourcesDebug/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/packageInstantRunResourcesDebug/file-input-save-data.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/packageInstantRunResourcesDebug/zip-cache/us_DUthfiXgXIg67_bbq4iC68V0=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/instant-run-support/debug/instant-run.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/instant-run-support/debug/manifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/manifests/instant-run/debug/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/restart-dex/debug/build-info.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/compileDebugAidl/dependency.store" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/compileDebugAidl/dependency.store" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/compileReleaseAidl/dependency.store" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/compileReleaseAidl/dependency.store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uITANPR/src/main/ic_launcher-web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uITANPR/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uITANPR/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uITANPR/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uITANPR/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uITANPR/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/SplashActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uITANPR/src/main/res/drawable-ldpi/background_splash.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uITANPR/src/main/res/values/colors.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uITANPR/src/main/res/values/styles.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/generated/source/buildConfig/androidTest/debug/vn/edu/oa/anpr/test/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/res/merged/debug/drawable-ldpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/src/main/res/drawable-ldpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uITANPR/src/main/res/drawable-xxhdpi/ic_launcher.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uITANPR/build/generated/source/buildConfig/debug/vn/edu/uit/uitanpr/BuildConfig.java" afterPath="$PROJECT_DIR$/uITANPR/build/generated/source/buildConfig/debug/vn/edu/oa/anpr/BuildConfig.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uITANPR/build/generated/source/r/debug/vn/edu/uit/uitanpr/R.java" afterPath="$PROJECT_DIR$/uITANPR/build/generated/source/r/debug/vn/edu/oa/anpr/R.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/MainActivity.java" afterPath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/common/PlatesListAdapter.java" afterPath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/common/PlatesListAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/common/Utils.java" afterPath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/common/Utils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/interfaces/Constants.java" afterPath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/interfaces/Constants.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/interfaces/OnTaskCompleted.java" afterPath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/interfaces/OnTaskCompleted.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/models/BitmapWithCentroid.java" afterPath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/models/BitmapWithCentroid.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/views/CameraPreview.java" afterPath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/views/CameraPreview.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/outputs/aar/openCVLibrary320-debug.aar" afterPath="$PROJECT_DIR$/openCVLibrary320/build/outputs/aar/openCVLibrary320-debug.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/outputs/aar/openCVLibrary320-release.aar" afterPath="$PROJECT_DIR$/openCVLibrary320/build/outputs/aar/openCVLibrary320-release.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/generated/source/aidl/debug/org/opencv/engine/OpenCVEngineInterface.java" afterPath="$PROJECT_DIR$/openCVLibrary320/build/generated/source/aidl/debug/org/opencv/engine/OpenCVEngineInterface.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/generated/source/aidl/release/org/opencv/engine/OpenCVEngineInterface.java" afterPath="$PROJECT_DIR$/openCVLibrary320/build/generated/source/aidl/release/org/opencv/engine/OpenCVEngineInterface.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/generated/source/buildConfig/androidTest/debug/org/opencv/test/BuildConfig.java" afterPath="$PROJECT_DIR$/openCVLibrary320/build/generated/source/buildConfig/androidTest/debug/org/opencv/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/generated/source/buildConfig/debug/org/opencv/BuildConfig.java" afterPath="$PROJECT_DIR$/openCVLibrary320/build/generated/source/buildConfig/debug/org/opencv/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/generated/source/buildConfig/release/org/opencv/BuildConfig.java" afterPath="$PROJECT_DIR$/openCVLibrary320/build/generated/source/buildConfig/release/org/opencv/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/generated/source/r/androidTest/debug/org/opencv/R.java" afterPath="$PROJECT_DIR$/openCVLibrary320/build/generated/source/r/androidTest/debug/org/opencv/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build.gradle" afterPath="$PROJECT_DIR$/openCVLibrary320/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/bundles/debug/res/values/values.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/bundles/debug/res/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeReleaseShaders/merger.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/mergeReleaseShaders/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/packageDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/packageReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/incremental/packageReleaseResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/manifests/aapt/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/manifests/aapt/release/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/values/values.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/build/intermediates/res/merged/androidTest/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" afterPath="$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/generated/source/buildConfig/androidTest/debug/vn/edu/uit/uitanpr/test/BuildConfig.java" afterPath="$PROJECT_DIR$/uITANPR/build/generated/source/buildConfig/androidTest/debug/vn/edu/uit/uitanpr/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/generated/source/buildConfig/debug/vn/edu/uit/uitanpr/BuildConfig.java" afterPath="$PROJECT_DIR$/uITANPR/build/generated/source/buildConfig/debug/vn/edu/uit/uitanpr/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/openCVLibrary320/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/openCVLibrary320/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/MainActivity.java" afterPath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/common/Constants.java" afterPath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/common/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/common/PlatesListAdapter.java" afterPath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/common/PlatesListAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/common/Utils.java" afterPath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/common/Utils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/interfaces/Constants.java" afterPath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/interfaces/Constants.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/interfaces/GPSCallback.java" afterPath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/interfaces/GPSCallback.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/interfaces/OnTaskCompleted.java" afterPath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/interfaces/OnTaskCompleted.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/managers/GPSManager.java" afterPath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/managers/GPSManager.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/models/BitmapWithCentroid.java" afterPath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/models/BitmapWithCentroid.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/views/CameraPreview.java" afterPath="$PROJECT_DIR$/src/vn/edu/uit/uitanpr/views/CameraPreview.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build.gradle" afterPath="$PROJECT_DIR$/uITANPR/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/generated/source/r/debug/org/opencv/R.java" afterPath="$PROJECT_DIR$/uITANPR/build/generated/source/r/debug/org/opencv/R.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/blame/res/debug/multi/values.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/blame/res/debug/single/drawable-hdpi.json" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
@@ -72,22 +72,18 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/blame/res/debug/single/drawable-xhdpi.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/blame/res/debug/single/drawable-xxhdpi.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/blame/res/debug/single/raw.json" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/blame/res/debug/single/raw.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/packageDebug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/res/merged/debug/values/values.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/uITANPR/build/intermediates/symbols/debug/R.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/uITANPR/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/MainActivity.java" afterPath="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/uITANPR/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/uITANPR/uITANPR.iml" afterPath="$PROJECT_DIR$/uITANPR/uITANPR.iml" />
     </list>
     <ignored path="UIT-ANPR.iws" />
@@ -108,7 +104,7 @@
         <state>
           <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
             <file leaf-file-name="CameraPreview.java" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/views/CameraPreview.java">
+              <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/views/CameraPreview.java">
                 <provider selected="true" editor-type-id="text-editor">
                   <state relative-caret-position="17">
                     <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
@@ -141,21 +137,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/MainActivity.java">
+        <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+            <state relative-caret-position="476">
+              <caret line="174" column="43" selection-start-line="174" selection-start-column="43" selection-end-line="174" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/openCVLibrary320/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
+      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/values/styles.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="listrow.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/layout/listrow.xml">
+          <provider selected="true" editor-type-id="android-designer2">
             <state />
           </provider>
-          <provider selected="true" editor-type-id="text-editor">
+          <provider editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
@@ -163,7 +169,99 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="main.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/layout/main.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="result.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/layout/result.xml">
+          <provider selected="true" editor-type-id="android-designer2">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uITANPR/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+              <folding>
+                <element signature="e#435#453#0" expanded="true" />
+                <element signature="e#558#576#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="background_splash.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/drawable-ldpi/background_splash.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/values/colors.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openCVLibrary320/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="valueResourceFile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -283,6 +381,11 @@
                 <option name="name" value="mockableAndroidJar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:appcompat-v7:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72530Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the tasks runnable from root project 'UIT-ANPR' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
@@ -344,6 +447,11 @@
                 <option name="name" value="compileDebugJavaWithJavac" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-ui:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUi2530Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="buildNeeded" />
@@ -403,6 +511,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileDebugUnitTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-utils:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUtils2530Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -507,9 +620,19 @@
                 <option name="name" value="processReleaseManifest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-media-compat:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportMediaCompat2530Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the android (on device) tests for the Debug build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="uninstallDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-vector-drawable:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportVectorDrawable2530Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the insight into a specific dependency in root project 'UIT-ANPR'." />
@@ -536,6 +659,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="incrementalDebugUnitTestJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-compat:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportCompat2530Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -797,6 +925,11 @@
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportV42530Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the dependent components of components in root project 'UIT-ANPR'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependentComponents" />
@@ -880,6 +1013,11 @@
                 <option name="name" value="preDebugBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-fragment:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportFragment2530Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="generateDebugBuildConfig" />
               </ExternalTaskPojo>
@@ -908,6 +1046,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="packageDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:animated-vector-drawable:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportAnimatedVectorDrawable2530Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1615,6 +1758,11 @@
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:appcompat-v7:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72530Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the tasks runnable from project ':uITANPR'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
                 <option name="name" value="tasks" />
@@ -1661,6 +1809,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
                 <option name="name" value="compileDebugJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-ui:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUi2530Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles and tests this project and all projects it depends on." />
@@ -1718,6 +1871,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
                 <option name="name" value="compileDebugUnitTestJavaWithJavac" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-core-utils:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
+                <option name="name" value="prepareComAndroidSupportSupportCoreUtils2530Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
@@ -1802,8 +1960,18 @@
                 <option name="name" value="mergeDebugAndroidTestAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-media-compat:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
+                <option name="name" value="prepareComAndroidSupportSupportMediaCompat2530Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
                 <option name="name" value="processReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-vector-drawable:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
+                <option name="name" value="prepareComAndroidSupportSupportVectorDrawable2530Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Uninstalls the android (on device) tests for the Debug build." />
@@ -1835,6 +2003,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
                 <option name="name" value="incrementalDebugUnitTestJavaCompilationSafeguard" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-compat:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
+                <option name="name" value="prepareComAndroidSupportSupportCompat2530Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
@@ -2087,6 +2260,11 @@
                 <option name="name" value="generateDebugAssets" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
+                <option name="name" value="prepareComAndroidSupportSupportV42530Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the dependent components of components in project ':uITANPR'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
                 <option name="name" value="dependentComponents" />
@@ -2166,6 +2344,11 @@
                 <option name="name" value="preDebugBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-fragment:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
+                <option name="name" value="prepareComAndroidSupportSupportFragment2530Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
                 <option name="name" value="generateDebugBuildConfig" />
               </ExternalTaskPojo>
@@ -2196,6 +2379,11 @@
                 <option name="name" value="packageDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:animated-vector-drawable:25.3.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
+                <option name="name" value="prepareComAndroidSupportAnimatedVectorDrawable2530Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/uITANPR" />
                 <option name="name" value="generateReleaseResValues" />
               </ExternalTaskPojo>
@@ -2211,7 +2399,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="C:\Users\Julian\Documents\Apps\UIT-ANPR" value="5957962473333" />
+        <entry key="C:\Users\Julian\Documents\Apps\UIT-ANPR" value="5959007110871" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2585,6 +2773,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/MainActivity.java" />
+        <option value="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/uitanpr/MainActivity.java" />
+        <option value="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/MainActivity.java" />
+        <option value="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/views/SplashActivity.java" />
+        <option value="$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/SplashActivity.java" />
+        <option value="$PROJECT_DIR$/uITANPR/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/openCVLibrary320/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/uITANPR/build.gradle" />
+        <option value="$PROJECT_DIR$/openCVLibrary320/build.gradle" />
+        <option value="$PROJECT_DIR$/uITANPR/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/uITANPR/src/main/res/drawable-ldpi/background_splash.xml" />
+        <option value="$PROJECT_DIR$/uITANPR/src/main/res/values/colors.xml" />
       </list>
     </option>
   </component>
@@ -2601,16 +2800,16 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="AndroidView" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
+      <flattenPackages AndroidView="false" />
+      <showMembers AndroidView="false" />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages AndroidView="true" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -2629,6 +2828,10 @@
               <option name="myItemId" value="UIT-ANPR" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -2636,7 +2839,7 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="openCVLibrary320" />
+              <option name="myItemId" value="uITANPR" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2646,12 +2849,32 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="openCVLibrary320" />
+              <option name="myItemId" value="uITANPR" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UIT-ANPR" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uITANPR" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="manifests" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UIT-ANPR" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -2663,8 +2886,20 @@
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Splash" />
     <property name="device.picker.selection" value="9885f6385955515355" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="vn.edu.oa.anpr" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="vn.edu.oa.anpr.views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Julian\Documents\Apps\UIT-ANPR\uITANPR\src\main\res\values" />
+      <recent name="C:\Users\Julian\Documents\Apps\UIT-ANPR\uITANPR\src\main\res\drawable-ldpi" />
+    </key>
   </component>
   <component name="RunManager" selected="Android App.uITANPR">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -2740,12 +2975,97 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -2777,6 +3097,34 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
       <option name="OUTPUT_DIRECTORY" />
       <option name="ANNOTATION_TYPE" />
       <option name="ENV_VARIABLES" />
@@ -2874,12 +3222,13 @@
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -2887,6 +3236,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1684435" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2903,7 +3253,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2922,7 +3271,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2930,7 +3279,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/views/CameraPreview.java">
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/views/CameraPreview.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
@@ -2938,7 +3287,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2946,7 +3295,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/views/CameraPreview.java">
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/views/CameraPreview.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
@@ -2954,7 +3303,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2963,18 +3312,140 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gen/vn/edu/uit/uitanpr/R.java" />
-    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/views/CameraPreview.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/uit/uitanpr/views/CameraPreview.java">
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/com/hazuu/uitanpr/neural/KohonenNetwork.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="-4964">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/com/hazuu/uitanpr/neural/Network.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2159">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/com/hazuu/uitanpr/neural/SampleData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/com/hazuu/uitanpr/neural/TrainingSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2828">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/raw/europe.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44410">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/common/PlatesListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/common/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-799">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/interfaces/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/interfaces/OnTaskCompleted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/models/BitmapWithCentroid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openCVLibrary320/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/drawable-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/mipmap-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/java/vn/edu/oa/anpr/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="174" column="43" selection-start-line="174" selection-start-column="43" selection-end-line="174" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -2984,6 +3455,77 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+          <folding>
+            <element signature="e#435#453#0" expanded="true" />
+            <element signature="e#558#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/drawable-ldpi/background_splash.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/layout/listrow.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/layout/main.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uITANPR/src/main/res/layout/result.xml">
+      <provider selected="true" editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />

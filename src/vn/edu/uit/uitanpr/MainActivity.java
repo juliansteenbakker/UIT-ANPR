@@ -1,4 +1,4 @@
-package vn.edu.uit.uitanpr;
+package vn.edu.oa.anpr;
 
 import android.app.Activity;
 import android.content.Context;
@@ -50,15 +50,15 @@ import org.opencv.core.Size;
 import org.opencv.imgproc.Imgproc;
 import org.opencv.objdetect.CascadeClassifier;
 
-import vn.edu.uit.uitanpr.R;
-import vn.edu.uit.uitanpr.common.PlatesListAdapter;
-import vn.edu.uit.uitanpr.common.Utils;
-import vn.edu.uit.uitanpr.interfaces.GPSCallback;
-import vn.edu.uit.uitanpr.interfaces.OnTaskCompleted;
-import vn.edu.uit.uitanpr.models.BitmapWithCentroid;
-import vn.edu.uit.uitanpr.views.CameraPreview;
+import vn.edu.oa.anpr.R;
+import vn.edu.oa.anpr.common.PlatesListAdapter;
+import vn.edu.oa.anpr.common.Utils;
+import vn.edu.oa.anpr.interfaces.GPSCallback;
+import vn.edu.oa.anpr.interfaces.OnTaskCompleted;
+import vn.edu.oa.anpr.models.BitmapWithCentroid;
+import vn.edu.oa.anpr.views.CameraPreview;
 
-import vn.edu.uit.uitanpr.managers.GPSManager;
+import vn.edu.oa.anpr.managers.GPSManager;
 import com.hazuu.uitanpr.neural.KohonenNetwork;
 import com.hazuu.uitanpr.neural.SampleData;
 

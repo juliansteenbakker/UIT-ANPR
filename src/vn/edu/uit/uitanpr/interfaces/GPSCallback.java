@@ -1,4 +1,4 @@
-package vn.edu.uit.uitanpr.interfaces;
+package vn.edu.oa.anpr.interfaces;
 
 import android.location.Location;
 

@@ -1,4 +1,4 @@
-package vn.edu.uit.uitanpr.views;
+package vn.edu.oa.anpr.views;
 
 import java.io.IOException;
 import java.util.List;

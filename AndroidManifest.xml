@@ -20,7 +20,7 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name" >
         <activity
-            android:name="vn.edu.uit.uitanpr.MainActivity"
+            android:name="vn.edu.oa.anpr.MainActivity"
             android:label="@string/app_name" 
             android:screenOrientation="landscape">
             <intent-filter>

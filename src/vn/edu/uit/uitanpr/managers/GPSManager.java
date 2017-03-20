@@ -1,8 +1,8 @@
-package vn.edu.uit.uitanpr.managers;
+package vn.edu.oa.anpr.managers;
 
 import java.util.List;
 
-import vn.edu.uit.uitanpr.interfaces.GPSCallback;
+import vn.edu.oa.anpr.interfaces.GPSCallback;
 
 import android.content.Context;
 import android.location.Criteria;

@@ -1,4 +1,4 @@
-package vn.edu.uit.uitanpr.common;
+package vn.edu.oa.anpr.common;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -14,7 +14,7 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import org.opencv.core.Point;
 
-import vn.edu.uit.uitanpr.interfaces.Constants;
+import vn.edu.oa.anpr.interfaces.Constants;
 
 import android.os.Environment;
 
