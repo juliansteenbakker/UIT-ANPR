@@ -21,4 +21,6 @@ android {
 dependencies {
     compile project(':openCVLibrary320')
     compile 'com.android.support:appcompat-v7:25.3.0'
+
+
 }

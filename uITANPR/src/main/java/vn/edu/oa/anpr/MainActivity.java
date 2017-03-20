@@ -170,6 +170,7 @@ public class MainActivity extends Activity implements OnTaskCompleted{
 			try {
 				layout = (RelativeLayout) findViewById(R.id.mainFrame);
 				plateView = new PlateView(this);
+
 				cameraPreview = new CameraPreview(this, plateView);
 				layout.addView(cameraPreview, 1);
 				layout.addView(plateView, 2);

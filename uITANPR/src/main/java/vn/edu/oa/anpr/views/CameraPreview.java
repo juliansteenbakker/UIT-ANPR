@@ -10,11 +10,27 @@ import android.hardware.Camera.Size;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 
+import vn.edu.oa.anpr.interfaces.CameraSupport;
+
+
 public class CameraPreview extends SurfaceView implements
-		SurfaceHolder.Callback {
+		SurfaceHolder.Callback, CameraSupport {
 	SurfaceHolder mHolder;
 	Camera mCamera;
 	Camera.PreviewCallback previewCallback;
+
+	@Override
+	public CameraSupport open(final int cameraId) {
+		this.mCamera = Camera.open(cameraId);
+		return this;
+	}
+
+	@Override
+	public int getOrientation(final int cameraId) {
+		Camera.CameraInfo info = new Camera.CameraInfo();
+		Camera.getCameraInfo(cameraId, info);
+		return info.orientation;
+	}
 
 	public CameraPreview(Context context, Camera.PreviewCallback previewCallback) {
 		super(context);
