@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/src/main/res/layout/main.xml"
+        "merged": "C:\\Users\\Julian\\Documents\\Apps\\UIT-ANPR\\uITANPR\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Julian\\Documents\\Apps\\UIT-ANPR\\uITANPR\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/build/intermediates/res/merged/debug/layout/listrow.xml",
-        "source": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/src/main/res/layout/listrow.xml"
+        "merged": "C:\\Users\\Julian\\Documents\\Apps\\UIT-ANPR\\uITANPR\\build\\intermediates\\res\\merged\\debug\\layout\\result.xml",
+        "source": "C:\\Users\\Julian\\Documents\\Apps\\UIT-ANPR\\uITANPR\\src\\main\\res\\layout\\result.xml"
     },
     {
-        "merged": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/build/intermediates/res/merged/debug/layout/result.xml",
-        "source": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/src/main/res/layout/result.xml"
+        "merged": "C:\\Users\\Julian\\Documents\\Apps\\UIT-ANPR\\uITANPR\\build\\intermediates\\res\\merged\\debug\\layout\\listrow.xml",
+        "source": "C:\\Users\\Julian\\Documents\\Apps\\UIT-ANPR\\uITANPR\\src\\main\\res\\layout\\listrow.xml"
     }
 ]

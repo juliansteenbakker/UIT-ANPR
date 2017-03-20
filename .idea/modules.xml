@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/UIT-ANPR.iml" filepath="$PROJECT_DIR$/.idea/UIT-ANPR.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../../working_on/OpenCV-2.4.5-android-sdk/sdk/java/java.iml" filepath="$PROJECT_DIR$/../../working_on/OpenCV-2.4.5-android-sdk/sdk/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UIT-ANPR.iml" filepath="$PROJECT_DIR$/UIT-ANPR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" filepath="$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uITANPR/uITANPR.iml" filepath="$PROJECT_DIR$/uITANPR/uITANPR.iml" />
     </modules>
   </component>
 </project>

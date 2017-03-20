@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Julian\Documents\Apps\UIT-ANPR\uITANPR\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Julian\Documents\Apps\UIT-ANPR\uITANPR\src\debug\jniLibs"/></dataSet></merger>

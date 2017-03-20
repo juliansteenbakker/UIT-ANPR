@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/build/intermediates/res/merged/debug/raw/cascade.xml",
-        "source": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/src/main/res/raw/cascade.xml"
+        "merged": "C:\\Users\\Julian\\Documents\\Apps\\UIT-ANPR\\uITANPR\\build\\intermediates\\res\\merged\\debug\\raw\\cascade.xml",
+        "source": "C:\\Users\\Julian\\Documents\\Apps\\UIT-ANPR\\uITANPR\\src\\main\\res\\raw\\cascade.xml"
     },
     {
-        "merged": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/build/intermediates/res/merged/debug/raw/international.xml",
-        "source": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/src/main/res/raw/international.xml"
+        "merged": "C:\\Users\\Julian\\Documents\\Apps\\UIT-ANPR\\uITANPR\\build\\intermediates\\res\\merged\\debug\\raw\\europe.xml",
+        "source": "C:\\Users\\Julian\\Documents\\Apps\\UIT-ANPR\\uITANPR\\src\\main\\res\\raw\\europe.xml"
     },
     {
-        "merged": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/build/intermediates/res/merged/debug/raw/europe.xml",
-        "source": "/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/src/main/res/raw/europe.xml"
+        "merged": "C:\\Users\\Julian\\Documents\\Apps\\UIT-ANPR\\uITANPR\\build\\intermediates\\res\\merged\\debug\\raw\\international.xml",
+        "source": "C:\\Users\\Julian\\Documents\\Apps\\UIT-ANPR\\uITANPR\\src\\main\\res\\raw\\international.xml"
     }
 ]

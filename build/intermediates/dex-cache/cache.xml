@@ -2,22 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\Julian\Documents\Apps\UIT-ANPR\openCVLibrary320\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="dd5a82071f3ccffa7c1662d9b92602f0dd71c5c8">
-        <dex dex="/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e1f41cd3a5c8fe32503cb3f0c04164e2e329a279/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c258544aacfced65296b07d00d304da3278980b5">
-        <dex dex="/home/julian/Documents/Nieuwe apps/UIT-ANPR1/uITANPR/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_de55f5abc56c45edfe5c7e04f812b86d19d2328b/classes.dex" />
+        sha1="038e8806866760ccd8568b401b8052e937e4be1a">
+        <dex dex="C:\Users\Julian\Documents\Apps\UIT-ANPR\uITANPR\build\intermediates\pre-dexed\debug\classes_f93cece6517003d8a03e891fa5351bd77aae6967.jar" />
     </item>
 
 </items>
