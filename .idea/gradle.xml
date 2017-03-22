@@ -8,8 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/anpr" />
             <option value="$PROJECT_DIR$/openCVLibrary320" />
-            <option value="$PROJECT_DIR$/uITANPR" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

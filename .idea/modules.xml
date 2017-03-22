@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UIT-ANPR.iml" filepath="$PROJECT_DIR$/UIT-ANPR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Voogd Kenteken App.iml" filepath="$PROJECT_DIR$/Voogd Kenteken App.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anpr/anpr.iml" filepath="$PROJECT_DIR$/anpr/anpr.iml" />
       <module fileurl="file://$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" filepath="$PROJECT_DIR$/openCVLibrary320/openCVLibrary320.iml" />
-      <module fileurl="file://$PROJECT_DIR$/uITANPR/uITANPR.iml" filepath="$PROJECT_DIR$/uITANPR/uITANPR.iml" />
     </modules>
   </component>
 </project>
